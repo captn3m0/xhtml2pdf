@@ -9,14 +9,6 @@ XHTML2PDF
     :target: https://www.python.org/downloads
     :alt: Python versions
 
-.. image:: https://img.shields.io/travis/xhtml2pdf/xhtml2pdf/master.svg?label=Travis%20CI&logo=Travis&logoColor=white
-    :target: https://travis-ci.org/xhtml2pdf/xhtml2pdf
-    :alt: Travis CI
-
-.. image:: https://img.shields.io/appveyor/build/LegoStormtroopr/xhtml2pdf?label=AppVeyor&logo=appveyor&logoColor=white
-    :target: https://ci.appveyor.com/project/LegoStormtroopr/xhtml2pdf/branch/master
-    :alt: AppVeyor
-
 .. image:: https://img.shields.io/coveralls/github/xhtml2pdf/xhtml2pdf?label=Coveralls&logo=Coveralls&logoColor=white
     :target: https://coveralls.io/github/xhtml2pdf/xhtml2pdf
     :alt: Coveralls
@@ -35,7 +27,7 @@ As with all open-source software, its use in production depends on many factors,
 About
 =====
 
-xhtml2pdf is a HTML to PDF converter using Python, the ReportLab Toolkit, html5lib and PyPDF2. It supports HTML5 and CSS 2.1 (and some of CSS 3). It is completely written in pure Python, so it is platform independent.
+xhtml2pdf is a HTML to PDF converter using Python, the ReportLab Toolkit, html5lib and PyPDF3. It supports HTML5 and CSS 2.1 (and some of CSS 3). It is completely written in pure Python, so it is platform independent.
 
 The main benefit of this tool is that a user with web skills like HTML and CSS is able to generate PDF templates very quickly without learning new technologies.
 
